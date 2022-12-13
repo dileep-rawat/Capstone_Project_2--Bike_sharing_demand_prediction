@@ -47,7 +47,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 ● Observation 2: Random forest & GBR have performed equally good in terms of adjusted r2.
 
-● Observation 3: We are getting the best results from lightGBM and CatBoost.
+● Observation 3: We are getting the best results from XGB model.
 
 # Conclusions:
 ● We started with loading the data, then we did Exploratory Data Analysis (EDA), null values treatment, feature selection, encoding of categorical columns, and then model building. In all of these models, our accuracy ranges from 56% to 91%, which can be said to be good for such a large dataset. This performance could be due to various reasons like the proper pattern of data, large data, or because of the relevant features.
