@@ -1,7 +1,7 @@
 # Capstone_Project_2--Bike_sharing_demand_prediction
 
 <p align="center">
-  <img width="600" height="180" src="https://camo.githubusercontent.com/a91cf0d804b5c294058c838e5c99c7384c2f0dfcff50ddfe80b67144997054a4/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6b6167676c652d636f6d7065746974696f6e732f6b6167676c652f333934382f6d656469612f62696b65732e706e67">
+  <img width="600" height="180" src="![image](https://github.com/user-attachments/assets/be46b7ec-197a-4921-a6fb-bd78e7d193f4)">
 </p>
 
 # Problem Statement
